@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
+import Footer from "@/components/footer";
+
 // import bgImage from '/gradient.png';
 
 export default function Home() {
@@ -292,23 +294,10 @@ export default function Home() {
                   </div>
 
               </div>
-          </div>
-          <div className={"w-full h-96 flex p-16 px-24 items-center bg-stone-400"}>
-              <div className="w-60 rounded">
-                  <img src="Logo.png" />
-              </div>
-              <div className={"ml-12 h-full py-8 prose lg:prose-md"}>
-                  <h1>
-                      SER Club
-                  </h1>
-
-                  <p>
-                      This is a cool club
-                  </p>
-              </div>
-          </div>
-
-
+            </div>
+            
+          <Footer />
       </main>
+
   )
 }
