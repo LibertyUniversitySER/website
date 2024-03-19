@@ -26,7 +26,7 @@ export default function Projects(){
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center transition-all duration-300 filter grayscale hover:grayscale-0">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img className="rounded 5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png" alt="website's under construction!"/>
+                                      <img className="rounded 5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-skills.png" alt="websites under construction!"/>
                                      
                                   </div>
                               </div>
@@ -87,7 +87,7 @@ export default function Projects(){
                                   </h1>
 
                                   <p class="text-2xl py-8">
-                                    A software that accomplishes a given task quickly and efficiently. Don't ask.
+                                    A software that accomplishes a given task quickly and efficiently. Don&apos;t ask.
                                   </p>
 
 
