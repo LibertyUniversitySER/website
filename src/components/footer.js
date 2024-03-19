@@ -3,7 +3,7 @@ export default function Navbar() {
     return (
         <footer className="footer p-10 bg-base-200 text-base-content">
         <aside>
-          <img className="h-13 w-13" src="../favicon.ico"></img>
+          <img className="h-12 w-12" src="../favicon.ico"></img>
           <p>ACME Industries Ltd.<br/>Providing reliable tech since 1992</p>
         </aside> 
         <nav>
