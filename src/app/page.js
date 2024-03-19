@@ -2,6 +2,7 @@ import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 import Image from "next/image";
+
 export default function Home() {
   return (
       <main className="flex min-h-screen w-full flex-col items-center overflow-clip">
@@ -82,8 +83,6 @@ export default function Home() {
           </div>
 
         <Footer /> 
-        
-        
 
       </main>
   )
