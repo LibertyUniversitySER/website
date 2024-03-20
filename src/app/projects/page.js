@@ -90,7 +90,7 @@ export default function Projects(){
                                   </h1>
 
                                   <p class="text-2xl py-8">
-                                    A software that accomplishes a given task quickly and efficiently. Don't ask.
+                                    A software that accomplishes a given task quickly and efficiently. Don&apos;t ask.
                                   </p>
 
 
