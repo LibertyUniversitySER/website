@@ -7,7 +7,7 @@ export default function Navbar() {
         {/*I want image here*/}
         <Images src="/SER_Logo.png" alt="logo" width={25} height={25} />
         {/* <img className="h-20 w-auto" src="/SER_Logo.png" alt="SER Logo" /> */}
-        <p>Software Engineering Readiness<br/>Creating fantastic websites scence 2023</p>
+        <p>Software Engineering Readiness<br/>Creating fantastic websites since 2023</p>
       </aside> 
       <nav>
         <h6 className="footer-title">SERC</h6> 
