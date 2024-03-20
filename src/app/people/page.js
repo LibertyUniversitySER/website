@@ -96,7 +96,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center flex-row-reverse justify-between">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://www.creativefabrica.com/wp-content/uploads/2022/10/25/Person-icon-Graphics-43204353-1.jpg" />
+                                      <img src="https://www.creativefabrica.com/wp-content/uploads/2022/10/25/Person-icon-Graphics-43204353-1.jpg" alt="person" />
                                   </div>
                               </div>
 
@@ -121,7 +121,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://media.licdn.com/dms/image/D4E35AQFLcNr8lcj9dA/profile-framedphoto-shrink_800_800/0/1692271384846?e=1709679600&v=beta&t=8raGYqWq90SEGtRCndAxdSh1hyMEcKE5NZRc-khwcow" />
+                                      <img src="https://media.licdn.com/dms/image/D4E35AQFLcNr8lcj9dA/profile-framedphoto-shrink_800_800/0/1692271384846?e=1709679600&v=beta&t=8raGYqWq90SEGtRCndAxdSh1hyMEcKE5NZRc-khwcow" alt="person" />
                                   </div>
                               </div>
 
@@ -195,7 +195,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center flex-row-reverse justify-between">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://media.licdn.com/dms/image/C5603AQF7oGu48q83nw/profile-displayphoto-shrink_800_800/0/1606973605163?e=1714608000&v=beta&t=LtnUfDGbykBneySFmdecCl-YOI9CrwsCvtk3lEW_AGg" />
+                                      <img src="https://media.licdn.com/dms/image/C5603AQF7oGu48q83nw/profile-displayphoto-shrink_800_800/0/1606973605163?e=1714608000&v=beta&t=LtnUfDGbykBneySFmdecCl-YOI9CrwsCvtk3lEW_AGg" alt="person" />
                                   </div>
                               </div>
 
@@ -220,7 +220,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://media.licdn.com/dms/image/D4E03AQGOpn66CfB2bw/profile-displayphoto-shrink_800_800/0/1675998523996?e=1714608000&v=beta&t=aUpVEk6Gg9LIusaeNPVIucBn062TFAIQDiYfg3d446w" />
+                                      <img src="https://media.licdn.com/dms/image/D4E03AQGOpn66CfB2bw/profile-displayphoto-shrink_800_800/0/1675998523996?e=1714608000&v=beta&t=aUpVEk6Gg9LIusaeNPVIucBn062TFAIQDiYfg3d446w" alt="person" />
                                   </div>
                               </div>
 
@@ -245,7 +245,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center flex-row-reverse justify-between">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://media.licdn.com/dms/image/C4E03AQG-PPYQTs410A/profile-displayphoto-shrink_800_800/0/1641398961367?e=1714608000&v=beta&t=T-DHeIeJJGfKhUr12oi6EVgacv7mSn4ZwSq_10pcc7I" />
+                                      <img src="https://media.licdn.com/dms/image/C4E03AQG-PPYQTs410A/profile-displayphoto-shrink_800_800/0/1641398961367?e=1714608000&v=beta&t=T-DHeIeJJGfKhUr12oi6EVgacv7mSn4ZwSq_10pcc7I" alt="person" />
                                   </div>
                               </div>
 
@@ -270,7 +270,7 @@ export default function Home() {
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center flex-row-reverse justify-between">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                      <img src="https://media.licdn.com/dms/image/D4E03AQFNY1aRByK15w/profile-displayphoto-shrink_800_800/0/1682832054538?e=1714608000&v=beta&t=tY7gH9ffH5zLiqAIqB8xw4tTzmQ5hL4gpGLm2JM1MNs" />
+                                      <img src="https://media.licdn.com/dms/image/D4E03AQFNY1aRByK15w/profile-displayphoto-shrink_800_800/0/1682832054538?e=1714608000&v=beta&t=tY7gH9ffH5zLiqAIqB8xw4tTzmQ5hL4gpGLm2JM1MNs" alt="person" />
                                   </div>
                               </div>
 
