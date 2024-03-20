@@ -7,7 +7,7 @@ export default function Navbar() {
         {/*I want image here*/}
         <Images src="/SER_Logo.png" alt="logo" width={25} height={25} />
         {/* <img className="h-20 w-auto" src="/SER_Logo.png" alt="SER Logo" /> */}
-        <p>Software Engineering Readiness<br/>Creating fantastic websites scence 2023!</p>
+        <p>Software Engineering Readiness<br/>Creating fantastic websites scence 2023</p>
       </aside> 
       <nav>
         <h6 className="footer-title">SERC</h6> 
@@ -19,10 +19,10 @@ export default function Navbar() {
 
       <nav>
         <a href="https://www.liberty.edu/"><h6 className="footer-title link link-hover">Liberty University </h6></a>
-        <a href="https://www.liberty.edu/business/bachelors/computer-science/" className="link link-hover">B.S. in Computer Science (Residential)</a>
-        <a href="https://www.liberty.edu/online/business/bachelors/computer-science-cybersecurity/" className="link link-hover">B.S. in Computer Science-Cybersecurity(Online)</a>
+        <a href="https://www.liberty.edu/business/bachelors/computer-science/" className="link link-hover">B.S. in Computer Science Residential</a>
+        <a href="https://www.liberty.edu/online/business/bachelors/computer-science-cybersecurity/" className="link link-hover">B.S. in Computer Science-Cybersecurity</a>
         <a href="https://www.liberty.edu/residential/business/bachelors/computer-science/software-engineering/" className="link link-hover">Software Engineering</a>
-        <a href="https://www.liberty.edu/business/bachelors/computer-science/web-mobile-programming/" className="link link-hover">Web & Mobile Programming</a>
+        <a href="https://www.liberty.edu/business/bachelors/computer-science/web-mobile-programming/" className="link link-hover">Web and Mobile Programming</a>
       </nav> 
 
       <nav>
