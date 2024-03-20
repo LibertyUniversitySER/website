@@ -66,7 +66,8 @@ export default function Projects(){
                                   <p class="text-2xl py-8">
                                   Utilizing an impressive array of miscellaneous utility and recreational Rust scripts, perfect for mastering the practical applications of the language. 
                                   </p>
-
+                                        
+                                  <Images className="5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/rust.png" alt="website's under construction!" height={500} width={500} />
 
                                   <div p-10>
                                     
