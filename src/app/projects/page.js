@@ -42,7 +42,7 @@ export default function Projects(){
                                   <p class="text-2xl text-gray-200 py-8">The most vital element of an organization is recognizability. We are currently in development of a visually pleasing, informative website that caters to anyone who may want to know more about what we do.</p>
                                  
                                   <div p-10>
-                                    <button href="google.com" class="btn btn-active text-sky-100 bg-red-500 hover:bg-red-700">button to do cool</button>
+                                    <button href="https://www.google.com" target="_blank" class="btn btn-active text-sky-100 bg-red-500 hover:bg-red-700">useless button</button>
                                 </div>
                               </div>
 
@@ -54,7 +54,7 @@ export default function Projects(){
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center flex-row-reverse justify-between transition-all duration-300 filter grayscale hover:grayscale-0">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                  {/* <img className="rounded 5x1 h-auto max-w-lg duration-300 ease-in-out hover:scale-110" src="https://miro.medium.com/v2/resize:fit:709/0*Eqqrv9zVpH99X726.png" alt="rusty crab"/> */}
+                                  <Images className="5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/rust.png" alt="website's under construction!" height={500} width={500} />
                                   </div>
                               </div>
 
@@ -67,7 +67,7 @@ export default function Projects(){
                                   Utilizing an impressive array of miscellaneous utility and recreational Rust scripts, perfect for mastering the practical applications of the language. 
                                   </p>
                                         
-                                  <Images className="5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/rust.png" alt="website's under construction!" height={500} width={500} />
+                                 
 
                                   <div p-10>
                                     
@@ -81,19 +81,20 @@ export default function Projects(){
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center transition-all duration-300 filter grayscale hover:grayscale-0">
                               <div className="avatar">
                                   <div className="w-72 rounded">
-                                 {/* <img className="rounded 5x1 h-auto max-w-lg duration-300 ease-in-out hover:scale-110" src="https://www.unite.ai/wp-content/uploads/2023/05/Featured-Blog-Image-Liquid-Neural-Networks-Definition-Applications-and-Challenges.jpg" alt="rusty crab"/> */}
+                                  <Images className="5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/network1.jpg" alt="brain" height={500} width={500} />
                                   </div>
                               </div>
 
                               <div className={"ml-8 h-full py-8 prose lg:prose-md"}>
                                   <h1 class="text-5xl">
-                                    Third Project
+                                    Next Projects
                                   </h1>
 
                                   <p class="text-2xl py-8">
-                                    A software that accomplishes a given task quickly and efficiently. Don&apos;t ask.
+                                    What kind of projects would you like to see? Leave an idea below!
                                   </p>
-
+                                  
+                                  <input type="text" placeholder="Project idea..." class="input input-bordered w-full max-w-fs rounded"></input>
 
                                   <div p-10>
                                     
