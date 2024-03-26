@@ -14,20 +14,20 @@ export default function Home() {
             <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
                 <div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
                     <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Our Team</h2>
-                    <p class="font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">Explore the whole collection of open-source web components and elements built with the utility classes from Tailwind</p>
+                    <p class="font-light text-gray-500 lg:mb-16 sm:text-xl dark:text-gray-400">This is the Software Engineering Readiness Club!</p>
                 </div> 
                 <div class="grid gap-8 mb-6 lg:mb-16 md:grid-cols-2">
 
-                    {/* First box */}
+                    {/* Michael Stickley */}
                     <div class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                         <a href="#">
-                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://media.licdn.com/dms/image/D5635AQEMvRhxtgK9rA/profile-framedphoto-shrink_800_800/0/1696107690998?e=1709679600&v=beta&t=ZckiaZ6JQOfv-m_zU-d--aoUATjtbysirXYo_kx2ORU" alt="Bonnie Avatar"/>
+                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg cropped-profile-picture" src="https://images.unsplash.com/photo-1496302662116-35cc4f36df92?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Bonnie Avatar"/>
                         </a>
                         <div class="p-5">
                             <h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
                                 <a href="#">Michael Stickley</a>
                             </h3>
-                            <span class="text-gray-500 dark:text-gray-400">CEO & Web Developer</span>
+                            <span class="text-gray-500 dark:text-gray-400">President</span>
                             <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">President of the Software Engineering Readiness Club.</p>
                             <ul class="flex space-x-4 sm:mt-0">
                                 <li>
@@ -53,16 +53,18 @@ export default function Home() {
                             </ul>
                         </div>
                     </div> 
+
+                    {/*Kaelyn Hayie*/}
                     <div class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                         <a href="#">
-                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png" alt="Jese Avatar"/>
+                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg cropped-profile-picture" src="https://plus.unsplash.com/premium_photo-1709311441238-1c83ef3b8d04?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Jese Avatar"/>
                         </a>
                         <div class="p-5">
                             <h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                                <a href="#">Jese Leos</a>
+                                <a href="#">Kaelyn Hayie</a>
                             </h3>
-                            <span class="text-gray-500 dark:text-gray-400">CTO</span>
-                            <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Jese drives the technical strategy of the flowbite platform and brand.</p>
+                            <span class="text-gray-500 dark:text-gray-400">President</span>
+                            <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">President of the Software Engineering Readiness Club.</p>
                             <ul class="flex space-x-4 sm:mt-0">
                                 <li>
                                     <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
@@ -87,15 +89,17 @@ export default function Home() {
                             </ul>
                         </div>
                     </div> 
+
+                    {/* Tyler Sackel*/}
                     <div class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                         <a href="#">
-                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png" alt="Michael Avatar"/>
+                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg cropped-profile-picture" src="https://images.unsplash.com/photo-1523910088385-d313124c68aa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Michael Avatar"/>
                         </a>
                         <div class="p-5">
                             <h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                                <a href="#">Michael Gough</a>
+                                <a href="#">Tyler Sackel</a>
                             </h3>
-                            <span class="text-gray-500 dark:text-gray-400">Senior Front-end Developer</span>
+                            <span class="text-gray-500 dark:text-gray-400">Software Project Management</span>
                             <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Michael drives the technical strategy of the flowbite platform and brand.</p>
                             <ul class="flex space-x-4 sm:mt-0">
                                 <li>
@@ -121,15 +125,17 @@ export default function Home() {
                             </ul>
                         </div>
                     </div> 
+
+                    {/* Jeffrey Vandever */}
                     <div class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
                         <a href="#">
-                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/sofia-mcguire.png" alt="Sofia Avatar"/>
+                            <img class="w-full rounded-lg sm:rounded-none sm:rounded-l-lg cropped-profile-picture" src="https://images.unsplash.com/photo-1543357480-c60d40007a3f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Sofia Avatar"/>
                         </a>
                         <div class="p-5">
                             <h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                                <a href="#">Lana Byrd</a>
+                                <a href="#">Jeffrey Vandever</a>
                             </h3>
-                            <span class="text-gray-500 dark:text-gray-400">Marketing & Sale</span>
+                            <span class="text-gray-500 dark:text-gray-400">Software Project Management</span>
                             <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">Lana drives the technical strategy of the flowbite platform and brand.</p>
                             <ul class="flex space-x-4 sm:mt-0">
                                 <li>
