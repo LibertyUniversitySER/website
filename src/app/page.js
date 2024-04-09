@@ -9,7 +9,7 @@ export default function Home() {
             <Navbar></Navbar>
 
             <div className="w-full">
-                <div className="relative">
+                
                     <Hero className="min-h-screen h-full"></Hero>
                 </div>
                 <div className="w-full flex justify-center py-32">
@@ -33,7 +33,6 @@ export default function Home() {
                         </div>
                       </div>
                  </div>
-               </div>  
         </ main>
     );
 }
