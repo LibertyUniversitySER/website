@@ -8,7 +8,7 @@ export default function Home() {
         <main className="flex min-h-screen w-full flex-col items-center overflow-clip">
             <Navbar></Navbar>
 
-            {/* <div className="w-full">
+             <div className="w-full">
                 
                     <Hero className="min-h-screen h-full"></Hero>
                 </div>
@@ -32,7 +32,7 @@ export default function Home() {
                             </div>
                         </div>
                       </div>
-                 </div> */}
+                 </div>
         </ main>
     );
 }
