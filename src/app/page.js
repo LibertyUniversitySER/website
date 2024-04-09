@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
+import Footer from "@/components/footer";
 // import bgImage from '/gradient.png';
 
 export default function Home() {
@@ -33,6 +34,7 @@ export default function Home() {
                         </div>
                       </div>
                  </div>
+                 <Footer></Footer>
         </ main>
     );
 }
