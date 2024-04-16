@@ -34,7 +34,12 @@ export default function Home() {
                         </div>
                       </div>
                  </div>
+<<<<<<< HEAD
+               </div>  
+               <Footer></Footer>
+=======
                  <Footer></Footer>
+>>>>>>> eb436c1370e47879e8f0cc30aee24b7d682707f4
         </ main>
     );
 }
