@@ -72,7 +72,9 @@ export default function Home() {
                             <span class="text-gray-500 dark:text-gray-400">Software Project Management</span>
                             <p class="mt-3 mb-4 font-light text-gray-500 dark:text-gray-400">...</p>
                         </div>
-                    </div>  
+                    </div> 
+
+                    {/* This will someday be another slot for Software Project Mangers */} 
 
                     {/* Jack Harris */}
                     <div class="items-center bg-gray-50 rounded-lg shadow sm:flex dark:bg-gray-800 dark:border-gray-700">

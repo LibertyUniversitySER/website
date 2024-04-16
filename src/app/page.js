@@ -9,8 +9,8 @@ export default function Home() {
         <main className="flex min-h-screen w-full flex-col items-center overflow-clip">
             <Navbar></Navbar>
 
-            <div className="w-full">
-                <div className="relative">
+             <div className="w-full">
+                
                     <Hero className="min-h-screen h-full"></Hero>
                 </div>
                 <div className="w-full flex justify-center py-32">
@@ -29,13 +29,17 @@ export default function Home() {
                             </div>
                             <div className="text-center">
                                 <h2>Sharpen Your Technological Expertise</h2>
-                                <p>Immerse yourself in a dynamic learning environment designed to sharpen your technical prowess. As a club member, access resources and hands-on experiences that go beyond the classroom. Whether you're a coding novice or seasoned developer, our club is the ideal platform to refine your technology skills, explore various tools, and push the boundaries of your capabilities.</p>
+                                <p>Immerse yourself in a dynamic learning environment designed to sharpen your technical prowess. As a club member, access resources and hands-on experiences that go beyond the classroom. Whether you are a coding novice or seasoned developer, our club is the ideal platform to refine your technology skills, explore various tools, and push the boundaries of your capabilities.</p>
                             </div>
                         </div>
                       </div>
                  </div>
+<<<<<<< HEAD
                </div>  
                <Footer></Footer>
+=======
+                 <Footer></Footer>
+>>>>>>> eb436c1370e47879e8f0cc30aee24b7d682707f4
         </ main>
     );
 }
