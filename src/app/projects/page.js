@@ -13,7 +13,7 @@ export default function Projects(){
               <div class="flex items-center justify-center bg-gradient-to-r from-indigo-950 lg:py-16 md:py-8 sm:py-4">
                 <div class="w-auto">
                     <h1
-                    class="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-white pr-7 pt-4 lg:text-9xl md:text-5xl sm:text-3xl text-white">
+                    class="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-white pr-7 pt-4 lg:text-9xl md:text-8xl sm:text-7xl text-white">
                     current projects
                     </h1>
                 </div>
@@ -27,11 +27,11 @@ export default function Projects(){
                           <div className="bg-base-100 w-full h-[27rem] rounded-3xl p-16 flex items-center transition-all duration-300 filter grayscale hover:grayscale-0">
                               <div className="avatar">
                                   <div className="lg:w-72 rounded">
-                                  <Images className="5x1 h-auto max-w-lg transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/programming-skills.png" alt="brain" height={500} width={500} />
+                                  <Images className="5x1 transition-all duration-300 rounded-lg cursor-pointer ease-in-out hover:scale-110" src="/programming-skills.png" alt="brain" height={500} width={500} />
                                   </div>
                               </div>
 
-                              <div className={"ml-8 h-full py-12 prose lg:prose-md"}>
+                              <div className={"ml-8 h-full lg:py-12 sm:py-3 prose lg:prose-md"}>
                                   <h1 class="lg:text-5xl md:text-3xl sm:text-xl">
                                     Club Website                          
                                   </h1>
@@ -55,7 +55,7 @@ export default function Projects(){
                                   </div>
                               </div>
 
-                              <div className={"ml-8 h-full py-8 prose lg:prose-md"}>
+                              <div className={"ml-8 h-full lg:py-8 sm:py-4 prose lg:prose-md"}>
                                   <h1 class="lg:text-5xl md:text-3xl sm:text-xl">
                                     Rust Proof-of-Concept
                                   </h1>
@@ -82,7 +82,7 @@ export default function Projects(){
                                   </div>
                               </div>
 
-                              <div className={"ml-8 h-full py-8 prose lg:prose-md"}>
+                              <div className={"ml-8 h-full lg:py-8 sm:py-3 prose lg:prose-md"}>
                                   <h1 class="lg:text-5xl md:text-3xl sm:text-xl">
                                     Next Projects
                                   </h1>
@@ -92,6 +92,7 @@ export default function Projects(){
                                   </p>
                                   
                                   <input type="text" placeholder="Project idea..." class="input input-bordered w-full max-w-fs rounded"></input>
+                                  
 
                                   <div p-10>
                                     
