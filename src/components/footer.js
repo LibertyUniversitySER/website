@@ -24,13 +24,6 @@ export default function Navbar() {
         <a href="https://www.liberty.edu/residential/business/bachelors/computer-science/software-engineering/" className="link link-hover">Software Engineering</a>
         <a href="https://www.liberty.edu/business/bachelors/computer-science/web-mobile-programming/" className="link link-hover">Web and Mobile Programming</a>
       </nav> 
-
-      <nav>
-        <h6 className="footer-title">Legal</h6> 
-        <a className="link link-hover">Terms of use</a>
-        <a className="link link-hover">Privacy policy</a>
-        <a className="link link-hover">Cookie policy</a>
-      </nav>
     </footer>
   )
 }
